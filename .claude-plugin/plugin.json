@@ -1,0 +1,20 @@
+{
+  "name": "fxmacrodata",
+  "displayName": "FXMacroData",
+  "version": "1.0.0",
+  "description": "Official-source FX, macroeconomic and central-bank data for Claude: release calendars, indicator histories, policy rates, FX spot rates, COT positioning and commodities across 22 currencies.",
+  "author": {
+    "name": "FXMacroData",
+    "email": "info@fxmacrodata.com",
+    "url": "https://fxmacrodata.com"
+  },
+  "homepage": "https://fxmacrodata.com/documentation/mcp-server",
+  "repository": "https://github.com/fxmacrodata/claude-plugin-fxmacrodata",
+  "license": "MIT",
+  "keywords": ["fxmacrodata", "forex", "fx", "macroeconomics", "central-banks", "economic-calendar", "inflation", "interest-rates", "cot", "mcp"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://fxmacrodata.com/documentation/mcp-server",
+  "supportUrl": "https://fxmacrodata.com/contact",
+  "privacyPolicyUrl": "https://fxmacrodata.com/privacy",
+  "termsOfServiceUrl": "https://fxmacrodata.com/terms"
+}
