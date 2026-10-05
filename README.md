@@ -27,6 +27,14 @@ sign in.
 
 Pricing: https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
 
+## Network and credentials
+
+The plugin ships no scripts or hooks. Its only network endpoint is the hosted MCP server at
+`https://mcp.fxmacrodata.com/mcp`, declared in `.mcp.json`; every tool on it is read-only.
+No credential is needed for USD data. For a subscription, sign in through the client's MCP OAuth
+flow, or send an API key as an `Authorization: Bearer` header. The plugin never reads files,
+environment variables or local tokens.
+
 ## Example prompts
 
 - "What US data is due this week?"
