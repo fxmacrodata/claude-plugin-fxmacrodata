@@ -1,6 +1,6 @@
 # FXMacroData plugin for Claude
 
-[FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata) provides official-source FX, macroeconomic and central-bank data inside Claude Code: release calendars,
+[FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme) provides official-source FX, macroeconomic and central-bank data inside Claude Code: release calendars,
 indicator histories, policy rates, FX spot rates, COT positioning and commodities across 22
 currencies.
 
@@ -25,7 +25,7 @@ USD data works without an account. Other currencies, FX rates, COT, commodities 
 tools need an FXMacroData subscription. Run `/mcp` in Claude Code and choose **fxmacrodata** to
 sign in.
 
-Pricing: https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata
+Pricing: https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
 
 ## Example prompts
 
@@ -35,7 +35,7 @@ Pricing: https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral
 
 ## Support
 
-- Documentation: https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata
+- Documentation: https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
 - Email: info@fxmacrodata.com
 - Privacy policy: https://fxmacrodata.com/privacy?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
 - Terms: https://fxmacrodata.com/terms?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
