@@ -37,8 +37,8 @@ Pricing: https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral
 
 - Documentation: https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata
 - Email: info@fxmacrodata.com
-- Privacy policy: https://fxmacrodata.com/privacy
-- Terms: https://fxmacrodata.com/terms
+- Privacy policy: https://fxmacrodata.com/privacy?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
+- Terms: https://fxmacrodata.com/terms?utm_source=github&utm_medium=referral&utm_campaign=claude-plugin-fxmacrodata&utm_content=readme
 
 ## License
 
