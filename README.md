@@ -11,6 +11,10 @@ currencies.
 /plugin install fxmacrodata@fxmacrodata
 ```
 
+## Codex
+
+The same repository is a Codex plugin (`.codex-plugin/plugin.json`): it registers the hosted MCP server and the FXMacroData skill. Add it to a Codex marketplace that points at this repository, or copy the `mcp_servers` entry from `.mcp.json` into your Codex config.
+
 ## What's included
 
 - **MCP server**: the hosted FXMacroData server at `https://mcp.fxmacrodata.com/mcp`.
