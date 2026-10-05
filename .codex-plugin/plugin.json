@@ -22,6 +22,7 @@
     "capabilities": ["Read"],
     "websiteURL": "https://fxmacrodata.com",
     "brandColor": "#05131D",
+    "composerIcon": "./assets/composer-icon.png",
     "logo": "./assets/icon.png",
     "defaultPrompt": [
       "What US data is due this week?",
