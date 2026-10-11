@@ -12,7 +12,12 @@
       "source": "./",
       "description": "Official-source FX, macroeconomic and central-bank data: release calendars, indicator histories, policy rates, FX spot rates, COT positioning and commodities.",
       "category": "data",
-      "tags": ["forex", "macroeconomics", "finance", "mcp"]
+      "tags": [
+        "forex",
+        "macroeconomics",
+        "finance",
+        "mcp"
+      ]
     }
   ]
 }

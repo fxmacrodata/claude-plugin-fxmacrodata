@@ -5,9 +5,13 @@ argument-hint: <pair, e.g. EURUSD>
 
 Build a macro view of the currency pair $ARGUMENTS using the FXMacroData tools.
 
-1. Split the pair into base and quote currencies.
+Use the macro-evidence and research-provenance skills.
+
+1. Split the pair into base and quote currencies. Discover the available indicator definitions for both with `data_catalogue`; use their returned slugs and the live tool schemas.
 2. Get the current spot rate with `forex`.
 3. Compare policy rates with `rate_differentials` and latest inflation with `indicator_query`
    for both currencies.
 4. List the next high-impact releases for both currencies with `release_calendar`.
 5. Summarise the macro drivers in under 200 words. Do not give trade recommendations.
+
+Retain source, unit, observation period and publication qualifications. Reference rates are not executable quotes. Report access restrictions or unavailable data without inventing values or substituting another pair.
