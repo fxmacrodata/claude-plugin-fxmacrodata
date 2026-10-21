@@ -10,7 +10,7 @@
     {
       "name": "fxmacrodata",
       "source": "./",
-      "description": "Official-source FX, macroeconomic and central-bank data: release calendars, indicator histories, policy rates, FX spot rates, COT positioning and commodities.",
+      "description": "Official economic data, release calendars and currency research with source-linked charts and histories.",
       "category": "data",
       "tags": [
         "forex",

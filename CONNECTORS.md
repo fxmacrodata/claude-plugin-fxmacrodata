@@ -15,6 +15,9 @@ All listed tools are available through the host's ordinary MCP tool selection. T
 | `risk_sentiment_changes` | Retained sentiment-change history with `after_sequence` resume cursor; currency-context / macro-research |
 | `macro_news` | macro-brief / macro-research |
 | `release_calendar` | release-context / macro-research |
+| `calendar_snapshot` | Historical schedule at an explicit cutoff; release-context / macro-research; preserve accepted/reconstruction mode and version pins |
+| `calendar_event_versions` | Named-event schedule and cancellation history; release-context / macro-research |
+| `calendar_archive_coverage` | Inspect retained captures, parser outcomes and historical coverage limits before interpreting an archive |
 | `release_calendar_visual_artifact` | Matching research chart; table fallback when Apps cannot render |
 | `event_predictions` | release-context / macro-research |
 | `latest_announcements` | release-context / macro-research |
