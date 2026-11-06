@@ -1,12 +1,12 @@
 {
   "name": "fxmacrodata",
   "displayName": "FXMacroData",
-  "version": "1.0.2",
-  "description": "Official economic data, release calendars and currency research with source-linked charts and histories.",
+  "version": "1.0.4",
+  "description": "Official economic data, release calendars and actual release times, with source-linked charts, release replays and FX backtests.",
   "author": {
     "name": "FXMacroData",
     "email": "info@fxmacrodata.com",
-    "url": "https://fxmacrodata.com"
+    "url": "https://fxmacrodata.com/?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=author"
   },
   "homepage": "https://fxmacrodata.com/features?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=homepage",
   "repository": "https://github.com/fxmacrodata/claude-plugin-fxmacrodata",
@@ -21,6 +21,7 @@
     "inflation",
     "interest-rates",
     "cot",
+    "backtesting",
     "mcp"
   ],
   "icon": "./assets/icon.png",

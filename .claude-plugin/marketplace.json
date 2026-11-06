@@ -4,13 +4,13 @@
   "owner": {
     "name": "FXMacroData",
     "email": "info@fxmacrodata.com",
-    "url": "https://fxmacrodata.com"
+    "url": "https://fxmacrodata.com/?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=author"
   },
   "plugins": [
     {
       "name": "fxmacrodata",
       "source": "./",
-      "description": "Official economic data, release calendars and currency research with source-linked charts and histories.",
+      "description": "Official economic data, release calendars and actual release times, with source-linked charts, release replays and FX backtests.",
       "category": "data",
       "tags": [
         "forex",
