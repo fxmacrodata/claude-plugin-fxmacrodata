@@ -1,6 +1,6 @@
 {
   "name": "fxmacrodata",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Official-source FX, macroeconomic and central-bank data: release calendars, actual release times, indicator histories, policy rates, FX rates, COT positioning, commodities, release replays and FX backtests.",
   "author": {
     "name": "FXMacroData",
@@ -34,6 +34,8 @@
     ],
     "websiteURL": "https://fxmacrodata.com/?utm_source=codex&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=website",
     "brandColor": "#05131D",
+    "composerIcon": "./assets/composer-icon.png",
+    "logo": "./assets/icon.png",
     "defaultPrompt": [
       "What was the latest US CPI reading, and when was it actually published?",
       "Build a US macro briefing: rates, inflation, jobs and the releases due next.",

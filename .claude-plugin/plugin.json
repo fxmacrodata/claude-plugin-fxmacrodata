@@ -1,7 +1,7 @@
 {
   "name": "fxmacrodata",
   "displayName": "FXMacroData",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Official economic data, release calendars and actual release times, with source-linked charts, release replays and FX backtests.",
   "author": {
     "name": "FXMacroData",
