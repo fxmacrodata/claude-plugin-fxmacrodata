@@ -1,7 +1,7 @@
 {
   "name": "fxmacrodata",
   "displayName": "FXMacroData",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Official economic data, release calendars and actual release times, with source-linked charts, release replays and FX backtests.",
   "author": {
     "name": "FXMacroData",
@@ -24,9 +24,5 @@
     "backtesting",
     "mcp"
   ],
-  "icon": "./assets/icon.png",
-  "documentationUrl": "https://fxmacrodata.com/documentation/mcp-server?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=documentation",
-  "supportUrl": "https://fxmacrodata.com/support?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=support",
-  "privacyPolicyUrl": "https://fxmacrodata.com/privacy?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=privacy",
-  "termsOfServiceUrl": "https://fxmacrodata.com/terms?utm_source=claude&utm_medium=plugin_directory&utm_campaign=fxmacrodata_plugin&utm_content=terms"
+  "icon": "./assets/icon.png"
 }
