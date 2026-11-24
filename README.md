@@ -1,4 +1,4 @@
-<img src="assets/icon.png" width="88" height="88" alt="FXMacroData" />
+<img src="https://fxmacrodata.com/static/images/brand/logo-icon.png" width="88" height="88" alt="FXMacroData" />
 
 # FXMacroData
 
@@ -67,7 +67,7 @@ The plugin connects to the hosted MCP server at
 `https://mcp.fxmacrodata.com/mcp`. Data tools are read-only. Research tools save only your own research studies and simulated paper accounts. No tool places live orders, moves money or changes account settings.
 Account credentials belong in the host's connection flow, never in a prompt.
 
-Privacy policy: https://fxmacrodata.com/privacy
+Read our privacy policy: [https://fxmacrodata.com/privacy](https://fxmacrodata.com/privacy)
 
 Returned observations retain their units, periods and source references.
 Current histories can contain later revisions. Scheduled release times are
