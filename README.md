@@ -67,6 +67,8 @@ The plugin connects to the hosted MCP server at
 `https://mcp.fxmacrodata.com/mcp`. Data tools are read-only. Research tools save only your own research studies and simulated paper accounts. No tool places live orders, moves money or changes account settings.
 Account credentials belong in the host's connection flow, never in a prompt.
 
+Privacy policy: https://fxmacrodata.com/privacy
+
 Returned observations retain their units, periods and source references.
 Current histories can contain later revisions. Scheduled release times are
 distinct from observed publication times. Missing data is reported as unavailable.
